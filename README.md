@@ -44,8 +44,11 @@ A modern URL shortener built with CodeIgniter 4 featuring real-time analytics, Q
 
 ---
 
-### 📒 Logbook & Productivity System
+### 📒 E-Kinerja - Logbook & Productivity System
 Integrated task management and work log reporting system where completed tasks are automatically transformed into performance reports and activity logs.
+
+🔗 Showcase Repository:  
+[E-Kinerja Showcase](https://github.com/abdidnugraha/kinerja-pub)
 
 ---
 
