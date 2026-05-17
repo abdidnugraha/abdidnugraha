@@ -30,15 +30,15 @@ Academic IT Staff passionate about developing modern internal systems focused on
 
 ### 🚀 SIAP — Sistem Informasi Aspirasi dan Pengaduan
 Modern whistleblowing and aspiration platform built with CodeIgniter 4 HMVC architecture featuring:
-- Anonymous reporting system
-- Real-time two-way communication
-- RBAC authorization
-- Audit trail logging
-- Dynamic system identity
-- Excel reporting export
-
 🔗 Showcase Repository:  
 [SIAP Showcase](https://github.com/abdidnugraha/siap-pub)
+
+---
+
+### 🔗 KalaShort — Url Shortener
+A modern URL shortener built with CodeIgniter 4 featuring real-time analytics, QR code generation, traffic logging, and a lightweight, fast, mobile-friendly dashboard management system.:
+🔗 Showcase Repository:  
+[KalaShort Showcase](https://github.com/abdidnugraha/kalashort-pub)
 
 ---
 
